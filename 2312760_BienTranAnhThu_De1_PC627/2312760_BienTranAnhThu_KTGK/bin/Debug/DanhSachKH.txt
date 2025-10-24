@@ -1,0 +1,4 @@
+﻿KH001|Nguyên Văn A|0975664665|123 Phù Đổng Thiên Vương
+KH002|Trần Thị Bình|0841644434|45 Mai Hắc Đế
+KH003|Nguyễn Thảo|0946546764|70 Phan Đình Phùng
+KH004|Bùi Văn Tài|0946447643|37 Nguyễn Văn Trỗi
