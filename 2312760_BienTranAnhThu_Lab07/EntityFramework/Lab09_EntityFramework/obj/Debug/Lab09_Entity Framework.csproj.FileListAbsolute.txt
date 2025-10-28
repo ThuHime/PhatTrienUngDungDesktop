@@ -1,0 +1,33 @@
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_Entity Framework.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.AccountDetailsForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.Properties.Resources.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_Entity Framework.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\bin\Debug\Lab09_EntityFramework.exe.config
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\bin\Debug\Lab09_EntityFramework.exe
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\bin\Debug\Lab09_EntityFramework.pdb
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_En.4E2F541C.Up2Date
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.exe
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.pdb
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.exe.config
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.AccountForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.AccountManagementForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.AddAccountForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.MainForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.BillDetailsForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.BillsForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.ChangePasswordForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.FoodForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.Form1.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.LoginForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.MenuForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.RoleForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.SalesLogForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.TableForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.UpdateAccountForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.UpdateCategoryForm.resources
+C:\Users\PC\Downloads\Lab09_EntityFramework\Lab09_EntityFramework\obj\Debug\Lab09_EntityFramework.UpdateFoodForm.resources
